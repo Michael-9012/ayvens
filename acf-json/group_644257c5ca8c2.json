@@ -1,0 +1,47 @@
+{
+    "key": "group_644257c5ca8c2",
+    "title": "Cena bicykla",
+    "fields": [
+        {
+            "key": "field_644257d5b1259",
+            "label": "Vstupná cena s DPH",
+            "name": "celkova_cena",
+            "type": "number",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "&nbsp;€",
+            "min": "",
+            "max": "",
+            "step": "",
+            "translations": "sync"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "product"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1711028744
+}

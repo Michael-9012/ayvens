@@ -1,0 +1,41 @@
+{
+    "key": "group_6059f24b157b8",
+    "title": "Kde si kolo vyzvednu \/ Potřebujete více",
+    "fields": [
+        {
+            "key": "field_6059f2ab545c2",
+            "label": "Kde si kolo vyzvednu \/ Potřebujete více",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "Nelze editovat",
+            "new_lines": "wpautop",
+            "esc_html": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "block",
+                "operator": "==",
+                "value": "acf\/more"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "modified": 1616508079
+}

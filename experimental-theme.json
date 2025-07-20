@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "defaults": {
+      "border": {
+        "customRadius": false
+      }
+    }
+  }
+}
